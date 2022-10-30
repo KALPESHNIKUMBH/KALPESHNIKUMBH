@@ -1,5 +1,5 @@
 ![MasterHead](https://media-exp1.licdn.com/dms/image/C4D12AQGD_su1k14bYA/article-cover_image-shrink_600_2000/0/1583217311227?e=2147483647&v=beta&t=s_7cvkGjyfNTp2x6mnsiPFUfbPhWyvnMIavE_na62bE)
-<h1 align="center">Hi 👋, I'm Kalpesh Nikumbhl</h1>
+<h1 align="center">Hi 👋, I'm Kalpesh Nikumbh</h1>
 <h3 align="center">Data Science Enthusiast from India.</h3>
 <img align="right" alt="coading" width=400 src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"> 
 
