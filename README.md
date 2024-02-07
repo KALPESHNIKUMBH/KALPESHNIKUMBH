@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data science from ineuron.io**
 
-- 💬 Ask me about **Python, MySQL, API, Statistics, EDA&FE, ML**
+- 💬 Ask me about **GenAI, NLP, ML, Statistics, Python, MySQL, API, MongoDB, AWS**
 
 - 📫 How to reach me **kalpeshnikumbh811+github@gmail.com**
 
